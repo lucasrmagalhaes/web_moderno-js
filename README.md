@@ -7,3 +7,12 @@ Descrição: Domine Web, 14 Cursos + Projetos, Javascript, Angular, React, Vue, 
 Fundamentos:
 Organização;
 Comentário;
+Variáveis e Constantes;
+Tipagem Fraca;
+Number;
+Math;
+String;
+Boolean;
+Array;
+Object;
+Null & Undefined;
