@@ -3,7 +3,7 @@
  * Ponto e virgula ";" - É opcional.
  */
 
-console.log("Sentença de código")
+console.log("Sentença de Código")
 
 {
     console.log("Bloco")
