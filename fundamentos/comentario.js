@@ -5,7 +5,7 @@
  */
 
 // Comentário de 1 linha.
-console.log("1 linha")
+console.log("1 Linha")
 
 /*
  * Comentário 
@@ -13,4 +13,4 @@ console.log("1 linha")
  * Múltiplas
  * Linhas
  */
-console.log("Múltiplas linhas")
+console.log("Múltiplas Linhas")
