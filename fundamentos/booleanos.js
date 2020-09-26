@@ -1,12 +1,12 @@
 let isAtivo = false 
-console.log(isAtivo) // Falso - false
+console.log(isAtivo) // Falso
 
 isAtivo = true
-console.log(isAtivo) // Verdadeiro - true
+console.log(isAtivo) // Verdadeiro
 
 isAtivo = 1
-console.log(!isAtivo) // Negação - !
-console.log(!!isAtivo) // Afirmação - !!
+console.log(!isAtivo) // Negação
+console.log(!!isAtivo) // Afirmação
 
 console.log('os verdadeiros...')
 console.log(!!3)
