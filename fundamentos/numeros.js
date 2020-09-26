@@ -10,7 +10,7 @@ const avaliacao2 = 6.871
 const total = avaliacao1 * peso1 + avaliacao2 * peso2
 const media = total / (peso1 + peso2)
 
-console.log(media.toFixed(2)) // Define a quantidade de casas decimais
-console.log(media.toString()) // Transforma em String
-console.log(media.toString(2)) // Converte em Binário
+console.log(media.toFixed(2)) // Define a Quantidade de Casas Decimais.
+console.log(media.toString()) // Transforma em String.
+console.log(media.toString(2)) // Converte em Binário.
 console.log(typeof media)
