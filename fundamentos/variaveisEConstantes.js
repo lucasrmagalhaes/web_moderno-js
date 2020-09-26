@@ -1,6 +1,6 @@
 // Variaveis
-var a = 3
-let b = 4 // Forma mais moderna.
+var a = 3 // Forma antiga.
+let b = 4 // Forma moderna.
 console.log(a, b)
 
 // Constante - Quando o valor não vai variar.
