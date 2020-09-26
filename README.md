@@ -16,3 +16,5 @@ Boolean;
 Array;
 Object;
 Null & Undefined;
+Array;
+Objeto;
