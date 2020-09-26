@@ -18,3 +18,4 @@ Object;
 Null & Undefined;
 Array;
 Objeto;
+Null Undefined;
