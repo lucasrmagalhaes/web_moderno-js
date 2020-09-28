@@ -16,8 +16,8 @@ const imprimirResultado = function (nota) {
     }
 }
 
-imprimirResultado(10)
-imprimirResultado(8.9)
-imprimirResultado(6.55)
-imprimirResultado(3)
-imprimirResultado(-1)
+imprimirResultado(10) // Quando de Honra
+imprimirResultado(8.9) // Aprovado
+imprimirResultado(6.55) // Recuperação
+imprimirResultado(3) // Reprovado
+imprimirResultado(-1) // Nota Inválida
