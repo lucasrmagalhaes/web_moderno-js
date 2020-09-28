@@ -4,8 +4,8 @@ function soNoticiaBoa(nota){
     }
 }
 
-soNoticiaBoa(8.1)
-soNoticiaBoa(6.1)
+soNoticiaBoa(10)
+soNoticiaBoa(6.5)
 
 function seForVerdadeEuFalo(valor){
     if(valor){
