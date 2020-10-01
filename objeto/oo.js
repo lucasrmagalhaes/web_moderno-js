@@ -3,7 +3,7 @@
 // Procedural
 processamento(valor1, valor2, valor3)
 
-// OO
+// OO - Orientação a Objetos.
 objeto = {
     valor1,
     valor2,
