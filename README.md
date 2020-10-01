@@ -23,7 +23,7 @@
 - Destructuring; e
 - Operadores.
 
-## Estruturas de Controle:
+### Estruturas de Controle:
 - If;
 - If/Else;
 - If/Else If;
@@ -34,7 +34,7 @@
 - For/In; e
 - Break/Continue.
 
-## Função:
+### Função:
 - Parâmetros;
 - this;
 - bind;
@@ -44,7 +44,7 @@
 - Construtoras;
 - Tipos de Declaração;
 - Contexto Léxico;
-- Closusres;
+- Closures;
 - Factory;
 - Classe vs Função Factory;
 - IIFE;
