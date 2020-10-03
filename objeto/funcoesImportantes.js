@@ -32,4 +32,4 @@ const obj = Object.assign(dest, o1, o2)
 
 Object.freeze(obj)
 obj.c = 123
-console.log(obj)
+console.log(obj) // { a: 4, b: 2, c: 3 }
