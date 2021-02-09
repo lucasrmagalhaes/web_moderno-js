@@ -1,10 +1,14 @@
-<p align="left">
-    <strong>Curso:</strong> Desenvolvimento Web Moderno com JavaScript! COMPLETO 2020 + Projetos! 
+<details>
+    <summary><strong>Curso</strong></summary>
     <br />
-    <strong>Descrição:</strong> Domine Web, 14 Cursos + Projetos, Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap Webpack Gulp MySQL. 
-    <br />
-    <strong>Plataforma:</strong> Udemy.
-</p>
+    <p align="justify">
+        <strong>Nome:</strong> Desenvolvimento Web Moderno com JavaScript! COMPLETO 2020 + Projetos! 
+        <br />
+        <strong>Descrição:</strong> Domine Web, 14 Cursos + Projetos, Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap, Webpack, Gulp e MySQL. 
+        <br />
+        <strong>Plataforma:</strong> Udemy.
+    </p>
+</details>
 
 <hr />
 
@@ -110,46 +114,46 @@
     <summary><strong>Java Script: Exercícios</strong></summary>
     <br />
     <ol>
-        <li><a href="">Soma, Subtração, Multiplicação e Divisão.</a></li>
-        <li><a href="">Classificação dos Triângulos.</a></li>
-        <li><a href="">Base Elevada ao Expoente.</a></li>
-        <li><a href="">Resultado e o Resto.</a></li>
-        <li><a href="">Dinheiro de Forma Correta.</a></li>
-        <li><a href="">Juros Simples e Compostos.</a></li>
-        <li><a href="">Fórmula de Bhaskara.</a></li>
-        <li><a href="">Vetor de Pontuação.</a></li>
-        <li><a href="">Sistema de Notas.</a></li>
-        <li><a href="">Divisível por 3.</a></li>
-        <li><a href="">Anos Bissextos.</a></li>
-        <li><a href="">Fatorial de um Número.</a></li>
-        <li><a href="">Dia Útil.</a></li>
-        <li><a href="">Condicional Switch.</a></li>
-        <li><a href="">Revenda.</a></li>
-        <li><a href="">Calculadora Básica.</a></li>
-        <li><a href="">Aumento de Salário.</a></li>
-        <li><a href="">Número por Extenso.</a></li>
-        <li><a href="">Lanchonete.</a></li>
-        <li><a href="">Mínimo de Cédulas.</a></li>
-        <li><a href="">Plano de Saúde.</a></li>
-        <li><a href="">Pagamento de Anuidade.</a></li>
-        <li><a href="">Média Ponderada.</a></li>
-        <li><a href="">11 vezes Hello World.</a></li>
-        <li><a href="">1 até 150.</a></li>
-        <li><a href="">Pares entre 1 e 100.</a></li>
-        <li><a href="">Altura e Taxa de Crescimento.</a></li>
-        <li><a href="">Pares e Ímpares.</a></li>
-        <li><a href="">Vetor - Intervalo.</a></li>
-        <li><a href="">Vetor - Maior e Menor.</a></li>
-        <li><a href="">Vetor - Números Negativos.</a></li>
-        <li><a href="">Vetor - Média Aritmética.</a></li>
-        <li><a href="">Vetor - Três Vetores.</a></li>
-        <li><a href="">True ou False.</a></li>
-        <li><a href="">Dois Vetores.</a></li>
-        <li><a href="">Duas Funções - Vetores.</a></li>
-        <li><a href="">Duas Funções - Progressão Aritmética.</a></li>
-        <li><a href="">Imprimindo Números Ímpares.</a></li>
-        <li><a href="">Trocando Elementos.</a></li>
-        <li><a href="">Função - Vetor de Notas.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio01.js">Soma, Subtração, Multiplicação e Divisão.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio02.js">Classificação dos Triângulos.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio03.js">Base Elevada ao Expoente.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio04.js">Resultado e o Resto.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio05.js">Dinheiro de Forma Correta.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio06.js">Juros Simples e Compostos.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio07.js">Fórmula de Bhaskara.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio08.js">Vetor de Pontuação.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio09.js">Sistema de Notas.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio10.js">Divisível por 3.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio11.js">Anos Bissextos.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio12.js">Fatorial de um Número.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio13.js">Dia Útil.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio14.js">Condicional Switch.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio15.js">Revenda.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio16.js">Calculadora Básica.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio17.js">Aumento de Salário.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio18.js">Número por Extenso.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio19.js">Lanchonete.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio20.js">Mínimo de Cédulas.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio21.js">Plano de Saúde.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio22.js">Pagamento de Anuidade.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio23.js">Média Ponderada.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio24.js">11 vezes Hello World.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio25.js">1 até 150.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio26.js">Pares entre 1 e 100.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio27.js">Altura e Taxa de Crescimento.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio28.js">Pares e Ímpares.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio29.js">Vetor - Intervalo.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio30.js">Vetor - Maior e Menor.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio31.js">Vetor - Números Negativos.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio32.js">Vetor - Média Aritmética.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio33.js">Vetor - Três Vetores.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio34.js">True ou False.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio35.js">Dois Vetores.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio36.js">Duas Funções - Vetores.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio37.js">Duas Funções - Progressão Aritmética.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio38.js">Imprimindo Números Ímpares.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio39.js">Trocando Elementos.</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/exercicios/exercicio40.js">Função - Vetor de Notas.</a></li>
     </ol>
 </details>
 
