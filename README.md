@@ -67,8 +67,8 @@
         <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/controle/while.js">While</a></li>
         <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/controle/doWhile.js">Do While</a></li>
         <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/controle/for1.js">For</a></li>
-        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/controle/for2.js"></a>For/In</li>
-        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/controle/breakContinue.js"></a>Break/Continue</li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/controle/for2.js">For/In</a></li>
+        <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/controle/breakContinue.js">Break/Continue</a></li>
     </ul>
 </details>
 
@@ -102,6 +102,13 @@
         <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/iife.js">IIFE</a></li>
         <li><a href="https://github.com/lucasrmagalhaes/web_moderno-js/blob/master/funcao/callApply.js">Call & Apply</a></li>
     </ul>
+</details>
+
+<hr />
+
+<details>
+    <summary><strong>Java Script: Exercícios</strong></summary>
+    <br />
     <ol>
         <li><a href="">Soma, Subtração, Multiplicação e Divisão.</a></li>
         <li><a href="">Classificação dos Triângulos.</a></li>
