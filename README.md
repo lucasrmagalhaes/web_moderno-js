@@ -2,10 +2,10 @@
     <summary><strong>Curso</strong></summary>
     <br />
     <p align="justify">
-        <strong>Nome:</strong> Desenvolvimento Web Moderno com JavaScript! COMPLETO 2020 + Projetos! 
-        <br />
+        <strong>Nome:</strong> Desenvolvimento Web Moderno com JavaScript! COMPLETO 2020 + Projetos!
+        <br /><br />
         <strong>Descrição:</strong> Domine Web, 14 Cursos + Projetos, Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap, Webpack, Gulp e MySQL. 
-        <br />
+        <br /><br />
         <strong>Plataforma:</strong> Udemy.
     </p>
 </details>
