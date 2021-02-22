@@ -1,3 +1,5 @@
+<hr />
+
 <details>
     <summary><strong>Curso</strong></summary>
     <br />
