@@ -160,3 +160,15 @@
 </details>
 
 <hr />
+
+<details>
+    <summary><strong>Anotações:</strong></summary>
+    <br>
+    <pre>
+        npm install -g nodemon
+        npm install --save-dev nodemon
+        npm config get prefix
+        set PATH=%PATH%;C:\Users\"Aqui seu usuario"\AppData\Roaming\npm;
+        Permissão: Set-ExecutionPolicy RemoteSigned
+    </pre>
+</details>
