@@ -172,3 +172,5 @@ set PATH=%PATH%;C:\Users\"Aqui seu usuario"\AppData\Roaming\npm;
 Permissão: Set-ExecutionPolicy RemoteSigned
 </pre>
 </details>
+
+<hr />
