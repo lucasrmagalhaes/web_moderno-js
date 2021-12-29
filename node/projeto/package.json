@@ -1,17 +1,20 @@
 {
-  "name": "funcionarios",
+  "name": "projeto",
   "version": "1.0.0",
-  "description": "Aprendendo sobre o Node.js.",
-  "main": "funcionarios.js",
+  "description": "",
+  "main": "src/servidor.js",
   "scripts": {
     "start": "nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "keywords": [],
+  "dependencies": {
+    "body-parser": "1.18.2",
+    "express": "4.16.2"
+  },
   "devDependencies": {
-    "axios": "^0.24.0",
     "nodemon": "^2.0.15"
   }
 }
