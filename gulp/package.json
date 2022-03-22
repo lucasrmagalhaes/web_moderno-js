@@ -1,24 +1,24 @@
 {
   "name": "gulp",
   "version": "1.0.0",
-  "description": "",
+  "description": "[gulp.js](https://gulpjs.com/)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Cod3r",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
-    "babel-core": "6.26.3",
-    "babel-preset-env": "1.6.1",
-    "gulp": "4.0.2",
-    "gulp-babel": "7.0.1",
-    "gulp-concat": "2.6.1",
-    "gulp-sass": "4.0.1",
-    "gulp-typescript": "4.0.2",
-    "gulp-uglify": "3.0.0",
-    "gulp-uglifycss": "1.0.9",
-    "typescript": "2.8.3"
+    "babel-core": "^6.5.0",
+    "babel-preset-env": "^1.7.0",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^5.1.0",
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "gulp-uglify": "^3.0.2",
+    "gulp-uglifycss": "^1.1.0",
+    "typescript": "^4.6.2"
   }
 }
