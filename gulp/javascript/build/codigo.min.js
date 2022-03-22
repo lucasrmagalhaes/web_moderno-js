@@ -1,0 +1,2 @@
+"use strict";var Calculadora={_resultado:0,get resultado(){return this._resultado},somar:function(t){return this._resultado+=t+(1<arguments.length&&void 0!==arguments[1]?arguments[1]:0),this},potencia:function(t,r){t=Math.pow(t,r);return this._resultado+=t,this},zerar:function(){return this._resultado=0,this},log:function(){console.log(this._resultado)}};
+"use strict";console.log(Calculadora.somar(5).potencia(2,8).resultado),Calculadora.zerar().somar(2,3).somar(3).log();
