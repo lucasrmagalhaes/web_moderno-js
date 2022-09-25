@@ -1,16 +1,10 @@
-<hr />
-
-<details>
-    <summary><strong>Curso</strong></summary>
+<p align="justify">
+    <strong>Desenvolvimento Web Moderno com JavaScript!</strong>
+    <br /><br />
+    <strong>Descrição:</strong> Domine Web, 14 Cursos + Projetos, Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap, Webpack, Gulp e MySQL
     <br />
-    <p align="justify">
-        <strong>Nome:</strong> Desenvolvimento Web Moderno com JavaScript!
-        <br /><br />
-        <strong>Descrição:</strong> Domine Web, 14 Cursos + Projetos, Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap, Webpack, Gulp e MySQL. 
-        <br /><br />
-        <strong>Plataforma:</strong> Udemy.
-    </p>
-</details>
+    <strong>Plataforma:</strong> <a href="https://github.com/cod3rcursos/web-moderno">Udemy</a>
+</p>
 
 <hr />
 
@@ -172,7 +166,3 @@ set PATH=%PATH%;C:\Users\"Aqui seu usuario"\AppData\Roaming\npm;
 Permissão: Set-ExecutionPolicy RemoteSigned
 </pre>
 </details>
-
-<hr />
-
-[cod3rcursos/web-moderno](https://github.com/cod3rcursos/web-moderno)
