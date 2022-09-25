@@ -5,6 +5,8 @@ function exibir(v: Vendavel) {
 }
 
 const c = new Carro
+
 c.nome = 'Civic'
 c.preco = 89499.00
+
 exibir(c)
